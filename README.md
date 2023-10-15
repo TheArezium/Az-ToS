@@ -10,7 +10,7 @@ Terms of Service for the Az Network bot
 1. Intentional command spam or attempts to crash the bot should not be made.
 2. The bot developers reserve the rights to prohibit any server or user from using the network.
 3. We have the rights to update terms of service anytime with a notice in the support server.
-- Terms of Use (Global Chat)
+- Terms of Use (Network)
 
 1. Servers must use an appropiate server name.
 2. You must not use global chat for fraudulent activities, advertising, spamming, and NSFW/Gore.
