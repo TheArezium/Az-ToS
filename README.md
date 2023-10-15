@@ -12,7 +12,7 @@ Terms of Service for the Az Network bot
 3. We have the rights to update terms of service anytime with a notice in the support server.
 - Terms of Use (Global Chat)
 
-The bot developers reserve the rights to prohibit any user or any server from using global chat feature if they fail to comply with our rules. Rules will be pinned in global chat channel once chat is activated.
 1. Servers must use an appropiate server name.
 2. You must not use global chat for fraudulent activities, advertising, spamming, and NSFW/Gore.
 3. Ratelimits can be imposed on servers which cause overload in the global chat.
+4. If any of these is broken we have the right to blacklist the user/server temporarily or permanently.
